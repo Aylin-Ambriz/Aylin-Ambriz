@@ -1,9 +1,6 @@
 <div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Aylin Ambriz 👋
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=A year spent in artificial intelligence is enough to make one believe in God.&author=Alan Perlis" />
-
 </div>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
