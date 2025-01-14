@@ -80,7 +80,7 @@ A Data Science & Mathematics student at Berkeley with a passion for AI innovatio
 ## ⭐ Fun Facts
 - 🎮 Diamond-ranked League player applying strategic thinking to ML architecture design
 - 🧩 Expert Minesweeper solver with a passion for algorithmic problem-solving
-- 🎵 Sound Horizon enthusiast who loves analyzing complex musical narratives
+- 🎵 Bossa Nova enthusiast who loves analyzing complex musical narratives
 - 📚 Dedicated math tutor helping 60+ students weekly discover the beauty of mathematical thinking
 - 🌟 Combining AI expertise with healthcare innovation to make a global impact
 - 🎨 Creative coder exploring the intersection of art and machine learning
@@ -108,6 +108,6 @@ A Data Science & Mathematics student at Berkeley with a passion for AI innovatio
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
 <br>
 <br>
-Thanks for visiting! Fun fact: I'm working on combining my love for Sound Horizon's storytelling with AI to create something magical! 🎵✨
+Thanks for visiting! Fun fact: I'm working on combining my love for Bossa Nova with AI to create something magical! 🎵✨
 </p>
 </details>
