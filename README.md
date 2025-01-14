@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
-A Data Science & Mathematics student at Berkeley with a passion for AI innovation and teaching! Currently working as Director of Product Development at ChatCHW while also helping fellow students master complex mathematical concepts at Berkeley's Student Learning Center. I love combining rigorous mathematical theory with practical ML applications to create meaningful solutions. When I'm not coding or teaching, you'll find me hiking and camping, breaking my own speed records in Minesweeper, or listening to Bossa Nova (the vibe is unmatched! 🎵).
+A Data Science & Mathematics student at Berkeley with a passion for AI innovation and teaching! Currently working as Director of Product Development at ChatCHW while also helping fellow students master complex mathematical concepts at Berkeley's Student Learning Center. I love combining rigorous mathematical theory with practical ML applications to create meaningful solutions. When I'm not coding or teaching, you'll find me hiking and camping, breaking my own speed records in Minesweeper, or listening to Bossa Nova (Antonio Carlos Jobim is unmatched! 🎵).
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technical Skills
 
