@@ -92,7 +92,7 @@ A Data Science & Mathematics student at Berkeley with a passion for AI innovatio
 - 🥇 Championed Github Hackathon among 484 competitors with an innovative multilingual medical assistant
 - 🚁 Pioneered YOLOv5 CV system advancing drone tracking technology
 - 🎨 Architected a VGG Neural Network revolutionizing comic-style artwork generation
-- 🌍 Developed a groundbreaking polyglot medical assistant serving diverse communities
+- 🌍 Developed a groundbreaking medical assistant serving diverse communities
 
 ## 📫 Let's Connect!
 <div align="center">
