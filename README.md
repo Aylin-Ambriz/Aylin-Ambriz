@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
-A Data Science & Mathematics student at Berkeley with a passion for AI innovation and teaching! Currently working as Director of Product Development at ChatCHW while also helping fellow students master complex mathematical concepts at Berkeley's Student Learning Center. I love combining rigorous mathematical theory with practical ML applications to create meaningful solutions. When I'm not coding or teaching, you'll find me theorycrafting League of Legends builds, breaking my own speed records in Minesweeper, or listening to Sound Horizon (their storytelling through music is unmatched! 🎵).
+A Data Science & Mathematics student at Berkeley with a passion for AI innovation and teaching! Currently working as Director of Product Development at ChatCHW while also helping fellow students master complex mathematical concepts at Berkeley's Student Learning Center. I love combining rigorous mathematical theory with practical ML applications to create meaningful solutions. When I'm not coding or teaching, you'll find me hiking and camping, breaking my own speed records in Minesweeper, or listening to Bossa Nova (the vibe is unmatched! 🎵).
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technical Skills
 
@@ -67,8 +67,6 @@ A Data Science & Mathematics student at Berkeley with a passion for AI innovatio
  <img alt="Italian" src="https://img.shields.io/badge/Italian-Professional-0091BD?style=flat-square" />
  <img alt="Japanese" src="https://img.shields.io/badge/Japanese-Professional-0091BD?style=flat-square" />
  <img alt="French" src="https://img.shields.io/badge/French-Professional-0091BD?style=flat-square" />
- <img alt="Chinese" src="https://img.shields.io/badge/Chinese-Professional-0091BD?style=flat-square" />
- <img alt="German" src="https://img.shields.io/badge/German-Professional-0091BD?style=flat-square" />
 </p>
 
 ## 🎯 Current Projects
