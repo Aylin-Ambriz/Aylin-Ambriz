@@ -80,6 +80,7 @@ A Data Science & Mathematics student at Berkeley with a passion for AI innovatio
 - 🧩 Expert Minesweeper solver (98 secinds on expert grid) with a passion for algorithmic problem-solving
 - 🎵 Bossa Nova enthusiast who has the most diverse music taste in her friend group
 - 📚 Dedicated math tutor helping 60+ students weekly discover the beauty of mathematical thinking
+- ➗ Currently self studying a textbook on the intersections of number theory and elliptic curves (arithmetic geometry)
 - 🌟 Combining AI expertise with healthcare innovation to make a global impact
 - 🎨 Creative coder exploring the intersection of art and machine learning
 
