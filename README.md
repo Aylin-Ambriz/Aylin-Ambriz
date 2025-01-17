@@ -4,7 +4,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
-A Data Science & Mathematics student at Berkeley with a passion for AI innovation and teaching! Currently working as Director of Product Development at ChatCHW while also helping fellow students master complex mathematical concepts at Berkeley's Student Learning Center. I love combining rigorous mathematical theory with practical ML applications to create meaningful solutions. When I'm not coding or teaching, you'll find me drinking matcha, learning languges, breaking my own speed records in Minesweeper, or listening to Bossa Nova (Antonio Carlos Jobim is unmatched 🎵).
+A Data Science & Pure Mathematics student at Berkeley with a passion for AI innovation and teaching! Currently working as Director of Product Development at ChatCHW while also helping fellow students master complex mathematical concepts at Berkeley's Student Learning Center. I love combining rigorous mathematical theory with practical ML applications to create meaningful solutions. When I'm not coding or teaching, you'll find me drinking matcha, learning languges, breaking my own speed records in Minesweeper, or listening to Bossa Nova (Antonio Carlos Jobim is unmatched 🎵).
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technical Skills
 
@@ -76,11 +76,11 @@ A Data Science & Mathematics student at Berkeley with a passion for AI innovatio
 - 📊 Optimizing ML models for enterprise-scale applications with state-of-the-art architectures
 
 ## ⭐ Fun Facts
-- 🎮 Awful League of Legends player
+- 🎮 Terrible League of Legends player
 - 🧩 Expert Minesweeper solver (98 secinds on expert grid) with a passion for algorithmic problem-solving
 - 🎵 Bossa Nova enthusiast who has the most diverse music taste in her friend group
 - 📚 Dedicated math tutor helping 60+ students weekly discover the beauty of mathematical thinking
-- ➗ Currently self studying a textbook on the intersections of number theory and elliptic curves (arithmetic geometry)
+- ➗ Currently self studying a textbook on the intersections of number theory and elliptic curves (super fun!)
 - 🌟 Combining AI expertise with healthcare innovation to make a global impact
 - 🎨 Creative coder exploring the intersection of art and machine learning
 
