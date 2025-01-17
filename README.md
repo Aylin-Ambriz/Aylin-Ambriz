@@ -76,9 +76,9 @@ A Data Science & Mathematics student at Berkeley with a passion for AI innovatio
 - 📊 Optimizing ML models for enterprise-scale applications with state-of-the-art architectures
 
 ## ⭐ Fun Facts
-- 🎮 Diamond-ranked League player applying strategic thinking to ML architecture design
-- 🧩 Expert Minesweeper solver with a passion for algorithmic problem-solving
-- 🎵 Bossa Nova enthusiast who loves analyzing complex musical narratives
+- 🎮 Awful League of Legends player
+- 🧩 Expert Minesweeper solver (98 secinds on expert grid) with a passion for algorithmic problem-solving
+- 🎵 Bossa Nova enthusiast who has the most diverse music taste in her friend group
 - 📚 Dedicated math tutor helping 60+ students weekly discover the beauty of mathematical thinking
 - 🌟 Combining AI expertise with healthcare innovation to make a global impact
 - 🎨 Creative coder exploring the intersection of art and machine learning
