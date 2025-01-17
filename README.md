@@ -17,7 +17,7 @@ A Data Science & Pure Mathematics student at Berkeley with a passion for AI inno
  <img alt="Graph Theory" src="https://img.shields.io/badge/Graph_Theory-FF85A2?style=flat-square" />
  <img alt="Real Analysis" src="https://img.shields.io/badge/Real_Analysis-7EC8E3?style=flat-square" />
  <img alt="Number Theory" src="https://img.shields.io/badge/Number_Theory-C3B1E1?style=flat-square" />
- <img alt="Topology" src="https://img.shields.io/badge/Topology-FFB347?style=flat-square" />
+ <img alt="Representation Theory" src="https://img.shields.io/badge/Topology-FFB347?style=flat-square" />
 </p>
 
 ### 💻 Programming & Development
